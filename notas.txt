@@ -1,0 +1,2 @@
+-El circuito no estaba funcionando en clase
+-el token manda el numero inicial, pero despues de la inicializacion funciona perfecto
